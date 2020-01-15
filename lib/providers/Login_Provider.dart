@@ -10,6 +10,6 @@ import 'package:flutter/cupertino.dart';
 class LoginData extends ChangeNotifier
 {
     // void LoginValidation(){
-      //  This method we access Bloc method.
+    //  This method we access Bloc method.
     // }
 }
